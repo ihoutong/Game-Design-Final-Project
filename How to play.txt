@@ -1,0 +1,5 @@
+Like the main menu says, dodge monsters using the left and right arrow
+
+Once you get powerup, which you will know when your character art changes to having "wings" (technically a star) on its back or is covered in a circle
+
+Once you get the powerup, you can "attacK" the monsters to further increase your final score
